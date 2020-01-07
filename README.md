@@ -31,6 +31,7 @@
 |  authentication  |   noun    |        身份验证        |      |  `[ɔːˌθentɪˈkeɪʃn]` [🔈](https://www.google.com/search?q=how+to+pronounce+authentication)  |
 |  authorization   |   noun    |          授权          |      |  `[ˌɔːθərəˈzeɪʃn]` [🔈](https://www.google.com/search?q=how+to+pronounce+authorization)   |
 |  automation   |   noun    |      自动化         |      |  `[ˌɔːtəˈmeɪʃn]` [🔈](https://www.google.com/search?q=how+to+pronounce+automation)   |
+| base | noun | （数字进位制中的）基数 | |  |
 |     capacity     |   noun    |       能力、容量       |      |     `[kəˈpæsəti]` [🔈](https://www.google.com/search?q=how+to+pronounce+capacity)     |
 |     capture      |   verb    |       捕捉、抓取       |      |     `[ˈkæptʃər]` [🔈](https://www.google.com/search?q=how+to+pronounce+capture)      |
 |     caveats      |   noun    |        注意事项        |      |     `[ˈkeɪviˌæts]` [🔈](https://www.google.com/search?q=how+to+pronounce+caveats)      |
